@@ -1,0 +1,3 @@
+18:57:47.466 [TestNG-tests-1] DEBUG TestCases.LoginTest - Password got entered
+18:57:47.534 [TestNG-tests-1] DEBUG TestCases.LoginTest - Clicked on login button
+18:58:06.028 [TestNG-tests-1] DEBUG TestCases.LoginTest - Browser Closed

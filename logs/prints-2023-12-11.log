@@ -1,0 +1,7 @@
+20:43:03.172 [TestNG-tests-1] DEBUG TestCases.LoginTest - Click on Menu Icon
+20:43:03.409 [TestNG-tests-1] DEBUG TestCases.LoginTest - Click on login button
+20:43:06.638 [TestNG-tests-1] ERROR TestCases.LoginTest - Email address got entered
+20:43:06.754 [TestNG-tests-1] DEBUG TestCases.LoginTest - Password got entered
+20:43:06.818 [TestNG-tests-1] DEBUG TestCases.LoginTest - Clicked on login button
+20:43:13.004 [TestNG-tests-1] INFO  TestCases.LoginTest - User logged In
+20:43:18.210 [TestNG-tests-1] DEBUG TestCases.LoginTest - Browser Closed
