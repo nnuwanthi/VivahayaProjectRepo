@@ -1,3 +1,2 @@
-18:57:47.466 [TestNG-tests-1] DEBUG TestCases.LoginTest - Password got entered
-18:57:47.534 [TestNG-tests-1] DEBUG TestCases.LoginTest - Clicked on login button
-18:58:06.028 [TestNG-tests-1] DEBUG TestCases.LoginTest - Browser Closed
+16:07:55.114 [main] DEBUG TestCases.LoginTest - URL Navigate
+16:09:13.764 [main] DEBUG TestCases.LoginTest - URL Navigate
